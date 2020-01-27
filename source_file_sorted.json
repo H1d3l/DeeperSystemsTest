@@ -1,0 +1,533 @@
+[
+    {
+        "managers": [
+            "luanda"
+        ],
+        "name": "Annotations",
+        "priority": 10,
+        "watchers": [
+            "csaftoiu",
+            "merlin",
+            "victor"
+        ]
+    },
+    {
+        "managers": [
+            "merlin"
+        ],
+        "name": "[EXECUTIVE] Merlin",
+        "priority": 20,
+        "watchers": [
+            "csaftoiu",
+            "jpfarias",
+            "merlin",
+            "morris"
+        ]
+    },
+    {
+        "managers": [
+            "morris"
+        ],
+        "name": "sportsparsers - 22bet",
+        "priority": 45,
+        "watchers": [
+            "csaftoiu",
+            "merlin"
+        ]
+    },
+    {
+        "managers": [
+            "morris"
+        ],
+        "name": "sportsparsers - esportscalendar",
+        "priority": 55,
+        "watchers": [
+            "csaftoiu",
+            "merlin"
+        ]
+    },
+    {
+        "managers": [
+            "victor"
+        ],
+        "name": "morris bg data gathering",
+        "priority": 130,
+        "watchers": [
+            "csaftoiu",
+            "morris"
+        ]
+    },
+    {
+        "managers": [
+            "morris"
+        ],
+        "name": "sportsparsers - unikrn",
+        "priority": 145,
+        "watchers": [
+            "csaftoiu",
+            "merlin"
+        ]
+    },
+    {
+        "managers": [
+            "morris"
+        ],
+        "name": "Deepgammon",
+        "priority": 150,
+        "watchers": [
+            "merlin",
+            "victor"
+        ]
+    },
+    {
+        "managers": [
+            "morris"
+        ],
+        "name": "Runningball Parser",
+        "priority": 155,
+        "watchers": [
+            "csaftoiu",
+            "merlin"
+        ]
+    },
+    {
+        "managers": [
+            "morris"
+        ],
+        "name": "sportsparsers - unibet",
+        "priority": 250,
+        "watchers": [
+            "csaftoiu",
+            "merlin"
+        ]
+    },
+    {
+        "managers": [
+            "merlin"
+        ],
+        "name": "[Web] pm-site",
+        "priority": 260,
+        "watchers": [
+            "csaftoiu",
+            "jpfarias",
+            "morris"
+        ]
+    },
+    {
+        "managers": [
+            "morris"
+        ],
+        "name": "sportsparsers - tipster.de",
+        "priority": 295,
+        "watchers": [
+            "csaftoiu",
+            "merlin"
+        ]
+    },
+    {
+        "managers": [
+            "morris"
+        ],
+        "name": "sportsparsers - betway",
+        "priority": 300,
+        "watchers": [
+            "csaftoiu",
+            "merlin"
+        ]
+    },
+    {
+        "managers": [
+            "morris"
+        ],
+        "name": "sportsparsers - gg.bet",
+        "priority": 310,
+        "watchers": [
+            "csaftoiu",
+            "merlin"
+        ]
+    },
+    {
+        "managers": [
+            "csaftoiu"
+        ],
+        "name": "sportsparsers - pinnacle API",
+        "priority": 340,
+        "watchers": [
+            "Alex",
+            "csaftoiu",
+            "morris"
+        ]
+    },
+    {
+        "managers": [
+            "morris"
+        ],
+        "name": "sportsparsers - matchbook",
+        "priority": 395,
+        "watchers": [
+            "csaftoiu",
+            "merlin"
+        ]
+    },
+    {
+        "managers": [
+            "csaftoiu"
+        ],
+        "name": "[OCR] tesseract MRZ reading ",
+        "priority": 560,
+        "watchers": [
+            "arturc",
+            "merlin"
+        ]
+    },
+    {
+        "managers": [
+            "merlin"
+        ],
+        "name": "[ID-VERIFY-PIPELINE] finger detector",
+        "priority": 735,
+        "watchers": [
+            "csaftoiu",
+            "jpfarias",
+            "morris"
+        ]
+    },
+    {
+        "managers": [
+            "merlin"
+        ],
+        "name": "[CHESS] Live Demo Executive",
+        "priority": 750,
+        "watchers": [
+            "csaftoiu",
+            "morris"
+        ]
+    },
+    {
+        "managers": [
+            "merlin"
+        ],
+        "name": "[INHOUSE-TOOLS] NN-Webapp",
+        "priority": 755,
+        "watchers": [
+            "csaftoiu",
+            "jpfarias",
+            "merlin",
+            "morris"
+        ]
+    },
+    {
+        "managers": [
+            "merlin"
+        ],
+        "name": "[INHOUSE-TOOLS] Annotators app",
+        "priority": 760,
+        "watchers": [
+            "csaftoiu",
+            "jpfarias",
+            "morris"
+        ]
+    },
+    {
+        "managers": [
+            "arturc",
+            "csaftoiu"
+        ],
+        "name": "unity render diff passport text artur",
+        "priority": 815,
+        "watchers": [
+            "merlin",
+            "morris"
+        ]
+    },
+    {
+        "managers": [
+            "csaftoiu",
+            "merlin"
+        ],
+        "name": "[CV] [Qt] OpenCV GUI",
+        "priority": 850,
+        "watchers": [
+            "merlin",
+            "morris"
+        ]
+    },
+    {
+        "managers": [
+            "merlin"
+        ],
+        "name": "python training lucas",
+        "priority": 2160,
+        "watchers": [
+            "csaftoiu",
+            "morris"
+        ]
+    },
+    {
+        "managers": [
+            "merlin"
+        ],
+        "name": "python training alysson",
+        "priority": 2180,
+        "watchers": [
+            "csaftoiu",
+            "morris"
+        ]
+    },
+    {
+        "managers": [
+            "csaftoiu"
+        ],
+        "name": "unity render different passport text",
+        "priority": 2230,
+        "watchers": [
+            "merlin",
+            "morris"
+        ]
+    },
+    {
+        "managers": [
+            "csaftoiu"
+        ],
+        "name": "[template] unity render passport text",
+        "priority": 2235,
+        "watchers": [
+            "merlin",
+            "morris"
+        ]
+    },
+    {
+        "managers": [
+            "merlin"
+        ],
+        "name": "unity render diff passport text - kennedy",
+        "priority": 2260,
+        "watchers": [
+            "csaftoiu",
+            "merlin",
+            "morris"
+        ]
+    },
+    {
+        "managers": [
+            "merlin"
+        ],
+        "name": "Unity Render Passport Text [Template]",
+        "priority": 2265,
+        "watchers": [
+            "csaftoiu",
+            "merlin",
+            "morris"
+        ]
+    },
+    {
+        "managers": [
+            "victor-mgr"
+        ],
+        "name": "mateus silva bg deep checkers",
+        "priority": 2295,
+        "watchers": [
+            "csaftoiu",
+            "merlin"
+        ]
+    },
+    {
+        "managers": [
+            "victor-mgr"
+        ],
+        "name": "Android Camera App rrocha",
+        "priority": 2300,
+        "watchers": [
+            "csaftoiu",
+            "merlin"
+        ]
+    },
+    {
+        "managers": [
+            "victor-mgr"
+        ],
+        "name": "bg deep learning aporto",
+        "priority": 2305,
+        "watchers": [
+            "csaftoiu",
+            "merlin"
+        ]
+    },
+    {
+        "managers": [
+            "victor-mgr"
+        ],
+        "name": "bg deep checkers rvalentim",
+        "priority": 2310,
+        "watchers": [
+            "csaftoiu",
+            "merlin"
+        ]
+    },
+    {
+        "managers": [
+            "victor-mgr"
+        ],
+        "name": "tourney site famador",
+        "priority": 2320,
+        "watchers": [
+            "csaftoiu",
+            "merlin"
+        ]
+    },
+    {
+        "managers": [
+            "merlin"
+        ],
+        "name": "chess board finder eliaquim",
+        "priority": 2330,
+        "watchers": [
+            "csaftoiu",
+            "victor-mgr"
+        ]
+    },
+    {
+        "managers": [
+            "victor-mgr"
+        ],
+        "name": "tourney site ariel",
+        "priority": 2340,
+        "watchers": [
+            "csaftoiu",
+            "merlin"
+        ]
+    },
+    {
+        "managers": [
+            "victor-mgr"
+        ],
+        "name": "tourney site tbarbalho",
+        "priority": 2345,
+        "watchers": [
+            "csaftoiu",
+            "merlin"
+        ]
+    },
+    {
+        "managers": [
+            "merlin"
+        ],
+        "name": "[IOS-APPS] IOS streaming app",
+        "priority": 2375,
+        "watchers": [
+            "csaftoiu",
+            "jpfarias",
+            "morris"
+        ]
+    },
+    {
+        "managers": [
+            "merlin"
+        ],
+        "name": "[IOS-APPS] IOS PI app",
+        "priority": 2380,
+        "watchers": [
+            "csaftoiu",
+            "jpfarias",
+            "morris"
+        ]
+    },
+    {
+        "managers": [
+            "merlin"
+        ],
+        "name": "[HR] Candidate tests",
+        "priority": 2385,
+        "watchers": [
+            "csaftoiu",
+            "jpfarias",
+            "morris"
+        ]
+    },
+    {
+        "managers": [
+            "merlin"
+        ],
+        "name": "[CHATBOT] merlin",
+        "priority": 2390,
+        "watchers": [
+            "csaftoiu",
+            "jpfarias",
+            "morris"
+        ]
+    },
+    {
+        "managers": [
+            "merlin"
+        ],
+        "name": "[ID-VERIFY-PIPELINE] Background evaluator",
+        "priority": 2395,
+        "watchers": [
+            "csaftoiu",
+            "jpfarias",
+            "morris"
+        ]
+    },
+    {
+        "managers": [
+            "merlin"
+        ],
+        "name": "[ID-VERIFY-PIPELINE] Passport finder",
+        "priority": 2400,
+        "watchers": [
+            "csaftoiu",
+            "jpfarias",
+            "morris"
+        ]
+    },
+    {
+        "managers": [
+            "merlin"
+        ],
+        "name": "[CHATBOT] rodrigo",
+        "priority": 2405,
+        "watchers": [
+            "csaftoiu",
+            "jpfarias",
+            "morris"
+        ]
+    },
+    {
+        "managers": [
+            "ariel",
+            "merlin"
+        ],
+        "name": "[BG-CLUB-SITE] frontend",
+        "priority": 2435,
+        "watchers": [
+            "csaftoiu",
+            "jpfarias",
+            "morris"
+        ]
+    },
+    {
+        "managers": [
+            "merlin"
+        ],
+        "name": "[INHOUSE-TOOLS] NN-Webapp 2",
+        "priority": 2520,
+        "watchers": [
+            "csaftoiu",
+            "jpfarias",
+            "merlin",
+            "morris"
+        ]
+    },
+    {
+        "managers": [
+            "csaftoiu",
+            "morris"
+        ],
+        "name": "matchbook parser - mfilho",
+        "priority": 2575,
+        "watchers": [
+            "jpfarias",
+            "merlin"
+        ]
+    }
+]
