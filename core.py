@@ -37,7 +37,7 @@ try:
     dict_watchers_json = json.dumps(dict_watchers, sort_keys=True, indent=4)
     data_json_sorted = json.dumps(data_json_sorted, sort_keys=True, indent=4)
 
-    save_dict_managers = open('managers.json','w')
+    save_dict_managers = open('manager.json','w')
     save_dict_watchers = open('watchers.json','w')
     save_dict_source_file = open('source_file_sorted.json','w')
 
